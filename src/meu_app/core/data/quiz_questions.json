@@ -1,0 +1,58 @@
+[
+  {
+    "id": "q1",
+    "question": "O que significa 'CPU' no contexto de computação?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Control Processing Unit",
+      "Central Program Unit"
+    ],
+    "answerIndex": 0,
+    "phase": 1,
+    "points": 10,
+    "theme": "Tecnologia"
+  },
+  {
+    "id": "q2",
+    "question": "Qual a capital do Brasil?",
+    "options": [
+      "São Paulo",
+      "Brasília",
+      "Rio de Janeiro",
+      "Salvador"
+    ],
+    "answerIndex": 1,
+    "phase": 1,
+    "points": 10,
+    "theme": "Cultura geral"
+  },
+  {
+    "id": "q3",
+    "question": "Qual equipamento é obrigatório para trabalhos em altura na indústria?",
+    "options": [
+      "Capacete",
+      "Botas",
+      "Cinto de Segurança",
+      "Luvas"
+    ],
+    "answerIndex": 2,
+    "phase": 2,
+    "points": 20,
+    "theme": "Segurança do trabalho"
+  },
+  {
+    "id": "q4",
+    "question": "O que significa SENAI?",
+    "options": [
+      "Serviço Nacional de Aprendizagem Industrial",
+      "Sistema Nacional de Aprendizagem Industrial",
+      "Serviço Nacional de Apoio Industrial",
+      "Sistema Especial Nacional de Indústria"
+    ],
+    "answerIndex": 0,
+    "phase": 1,
+    "points": 10,
+    "theme": "SENAI"
+  }
+]

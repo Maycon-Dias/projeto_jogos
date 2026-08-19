@@ -1,0 +1,13 @@
+pyproject.toml
+src/meu_app.egg-info/PKG-INFO
+src/meu_app.egg-info/SOURCES.txt
+src/meu_app.egg-info/dependency_links.txt
+src/meu_app.egg-info/entry_points.txt
+src/meu_app.egg-info/top_level.txt
+src/meu_app/core/storage.py
+src/meu_app/views/main.py
+src/meu_app/views/main_window.py
+src/meu_app/views/tab_cinema.py
+src/meu_app/views/tab_hangman.py
+src/meu_app/views/tab_manager.py
+src/meu_app/views/tab_quiz.py
